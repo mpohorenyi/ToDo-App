@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/mpohorenyi/MyBike-Landing-Page">
+  <a href="https://mpohorenyi.github.io/ToDo-App/">
     <img src="public/icons/todo-icon.svg" alt="Logo" width="80" height="80">
   </a>
 
